@@ -1,2 +1,0 @@
-# SpamWa
-Hallo
